@@ -1,0 +1,13 @@
+
+/*#right{
+    fill:rgba(0, 213, 255, 0.758);
+}
+
+#left{
+    fill:rgba(255, 0, 166, 0.491);
+}
+*/
+#face
+{     animation-duration: 5s;     
+    animation-delay: 4s;     /* enter any number or infinite, default is 1 */     
+    animation-iteration-count: 2; } 
